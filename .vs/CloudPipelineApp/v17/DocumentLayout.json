@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\CloudPipelineApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CADE580-F769-4065-91D4-574BC51012BB}|CloudPipelineApp.csproj|c:\\users\\admin\\source\\repos\\cloudpipelineapp\\cloudpipelineapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5CADE580-F769-4065-91D4-574BC51012BB}|CloudPipelineApp.csproj|solutionrelative:cloudpipelineapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudPipelineApp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CloudPipelineApp\\CloudPipelineApp.csproj",
+              "RelativeDocumentMoniker": "CloudPipelineApp.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CloudPipelineApp\\CloudPipelineApp.csproj",
+              "RelativeToolTip": "CloudPipelineApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T13:02:16.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
